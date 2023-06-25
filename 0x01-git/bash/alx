@@ -1,0 +1,10 @@
+#!/bin/bash
+echo "ALX"
+
+clear
+^c
+clear
+pwd
+q
+
+clear
